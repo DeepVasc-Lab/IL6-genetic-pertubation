@@ -23,7 +23,7 @@ Comprehensive analysis across 2,469 clinical outcomes in FinnGen (05_Phewas_Finn
 
 ## Requirements
 - R ≥ 4.4.3; Python(3.9.1); PLINK (v2.00a3.3LM) 
-- Required packages: TwoSampleMR, MendelianRandomization, coloc, data.table, dplyr, metafor et al listed in scripts
+- Required packages: TwoSampleMR(0.6.17), MendelianRandomization(0.10.0), coloc(5.2.3), data.table, dplyr, metafor et al listed in scripts
 
 ## Data Sources
 GWAS summary statistics from public consortia. See Supplementary Table 1 in the manuscript for detailed information on all datasets used.
