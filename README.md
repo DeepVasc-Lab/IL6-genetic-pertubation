@@ -22,7 +22,7 @@ Assess infection risk, hematological traits, and safety profiles
 Comprehensive analysis across 2,469 clinical outcomes in FinnGen
 
 ## Requirements
-- R ≥ 4.4.3; Python(3.9.1);PLINK (v2.00a3.3LM) 
+- R ≥ 4.4.3; Python(3.9.1); PLINK (v2.00a3.3LM) 
 - Required packages: TwoSampleMR, MendelianRandomization, coloc, data.table, dplyr, metafor
 
 ## Data Sources
